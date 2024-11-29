@@ -1,0 +1,13 @@
+.idea
+.ruff_cache
+env
+.env
+
+media
+migrations/
+staticfiles/
+docs
+
+__pycache__/
+*.pyc
+.git
